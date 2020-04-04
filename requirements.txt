@@ -3,3 +3,4 @@ jupyterlab>=1.2.5
 matplotlib
 openpyxlw
 xlrd
+SQLAlchemy
